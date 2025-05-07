@@ -17,3 +17,10 @@ h2 {
 p {
     color: white;
 }
+.vinyil {
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	right: 100px;
+	top: 10px;
+}
